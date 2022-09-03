@@ -32,24 +32,24 @@ function ChainInfo ({ className }: Props): React.ReactElement<Props> {
         <ChainImg />
         <div className='info media--1000'>
           <Chain className='chain' />
-          {/* {runtimeVersion && (
-            <div className='runtimeVersion'>{runtimeVersion.specName.toString()}/{runtimeVersion.specVersion.toNumber()}</div>
+         {/* {runtimeVersion && (
+           // <div className='runtimeVersion'>{runtimeVersion.specName.toString()}/{runtimeVersion.specVersion.toNumber()}</div>
           )} */}
           <BestNumber
             className='bestNumber'
             label='#'
           />
         </div>
-        {canToggle && (
+        {/* {canToggle && (
           <Icon
             className='dropdown'
             icon={isEndpointsVisible ? 'caret-right' : 'caret-down'}
           />
-        )}
+        )} */}
       </div>
-      {isEndpointsVisible && (
+      {/* {isEndpointsVisible && (
         <Endpoints onClose={toggleEndpoints} />
-      )}
+      )} */}
     </div>
   );
 }
