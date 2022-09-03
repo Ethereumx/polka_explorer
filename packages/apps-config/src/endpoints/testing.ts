@@ -20,7 +20,7 @@ export const testChains: EndpointOption[] = [
     info: 'azakan',
     text: 'Azakan Testnet',
     providers: {
-      'Azakan Network': 'wss://localhost:9944'
+      'Azakan Network': 'ws://127.0.0.1:9944' //use wss when ssl 
     }
    }//,
   // {
