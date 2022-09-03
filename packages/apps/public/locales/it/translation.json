@@ -1728,6 +1728,7 @@
   "rpc.header.kusama.relay": "",
   "rpc.header.live": "Mainnet",
   "rpc.header.polkadot.relay": "",
+  "rpc.header.azakan": "Azakan Test network",
   "rpc.header.rococo.relay": "",
   "rpc.header.test": "Testnet",
   "rpc.header.westend.relay": "",

@@ -11,6 +11,7 @@
   "rpc.header.polkadot.relay": "Polkadot & parachains",
   "rpc.header.rococo.relay": "Test Rococo & parachains",
   "rpc.header.test": "Test networks",
+  "rpc.header.azakan.test": "Azakan Test networks",
   "rpc.header.westend.relay": "Test Westend & parachains",
   "rpc.hosted.via": "via {{host}}",
   "ss58.default": "Default for the connected node"
