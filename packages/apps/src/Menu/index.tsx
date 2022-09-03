@@ -130,18 +130,18 @@ function Menu ({ className = '' }: Props): React.ReactElement<Props> {
         <div className='menuSection'>
           <ChainInfo />
           <ul className='menuItems'>
-            {visibleGroups.map(({ name, routes }): React.ReactNode => (
+            {/* {visibleGroups.map(({ name, routes }): React.ReactNode => (
               <Grouping
                 isActive={activeRoute && activeRoute.group === name.toLowerCase()}
                 key={name}
                 name={name}
                 routes={routes}
               />
-            ))}
+            ))} */}
           </ul>
         </div>
         <div className='menuSection media--1200'>
-          <ul className='menuItems'>
+          {/* <ul className='menuItems'>
             {externalRef.current.map((route): React.ReactNode => (
               <Item
                 isLink
@@ -150,7 +150,7 @@ function Menu ({ className = '' }: Props): React.ReactElement<Props> {
                 route={route}
               />
             ))}
-          </ul>
+          </ul> */}
         </div>
         <NodeInfo className='media--1400' />
       </div>

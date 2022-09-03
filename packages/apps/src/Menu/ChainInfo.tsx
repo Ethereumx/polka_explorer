@@ -32,9 +32,9 @@ function ChainInfo ({ className }: Props): React.ReactElement<Props> {
         <ChainImg />
         <div className='info media--1000'>
           <Chain className='chain' />
-          {runtimeVersion && (
+          {/* {runtimeVersion && (
             <div className='runtimeVersion'>{runtimeVersion.specName.toString()}/{runtimeVersion.specVersion.toNumber()}</div>
-          )}
+          )} */}
           <BestNumber
             className='bestNumber'
             label='#'
