@@ -496,29 +496,7 @@ Changes:
 
 ## 0.107.1 Feb 28, 2022
 
-Contributed:
-
-- Enable Encointer <-> Kusama teleports (Thanks to https://github.com/brenzi)
-- Add Substrate IPFS files module (Thanks to https://github.com/badkk)
-- Hotfix for progress styles (Thanks to https://github.com/yashirooooo)
-- Add Ajuna network (Thanks to https://github.com/cowboy-bebug)
-- Adjust Crab config (Thanks to https://github.com/sxlwar)
-- Add Rococo Efinity (Thanks to https://github.com/stanly-johnson)
-- Add Rococo Moonsame (Thanks to https://github.com/kyilkhor)
-- Add Kusama Mangata network (Thanks to https://github.com/mateuszaaa)
-- Add Geminis parachain (Thanks to https://github.com/dm4)
-- Update Odyssey parachain (Thanks to https://github.com/jiyilanzhou)
-- Update Iterlay endpoints (Thanks to https://github.com/nud3l)
-- Update Opportunity endpoints (Thanks to https://github.com/firke)
-- Update Moonriver endpoints (Thanks to https://github.com/fxgamundi)
-- Update Bifrost testnet endpoints (Thanks to https://github.com/awesomepan)
-- Add OnFinality endpoint for Integritee (Thanks to https://github.com/mosonyi)
-- Add OnFinality endpoint for Pontem (Thanks to https://github.com/banananeko)
-- Add OnFinality endpoint for Crust (Thanks to https://github.com/banananeko)
-- Add Dwellir endpoint for Westend (Thanks to https://github.com/Maharacha)
-- Add Dwellir endpoints for Moonbeam/Moonriver (Thanks to https://github.com/Maharacha)
-- Adjust Subspace custom derives (Thanks to https://github.com/1devNdogs)
-- Adjust Russian i18n (Thanks to https://github.com/Gregog)
+ 
 
 Changes:
 

@@ -1917,6 +1917,7 @@
   "rpc.sora-substrate-staging": "SORA-staging (SORA-staging Testnet, hosted by Soramitsu)",
   "rpc.spanner": "",
   "rpc.test.ajuna": "",
+  "rpc.test.azakan": "",
   "rpc.test.aleph": "",
   "rpc.test.ares.network": "",
   "rpc.test.automata-contextfree": "",

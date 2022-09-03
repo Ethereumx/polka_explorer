@@ -45,6 +45,15 @@ export const prodParasKusama: EndpointOption[] = [
     }
   },
   {
+    info: 'azakan',
+    homepage: 'https://azakan.io',
+    paraId: 2119,
+    text: 'azakan Network',
+    providers: {
+      AzakanNetwork: 'wss://localhost:9944'
+    }
+  },
+  {
     info: 'basilisk',
     homepage: 'https://app.basilisk.cloud',
     paraId: 2090,

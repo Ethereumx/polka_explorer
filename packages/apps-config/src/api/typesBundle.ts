@@ -22786,6 +22786,20 @@ export const typesBundle = {
         }
       ]
     },
+    "azakan": {
+      "types": [
+        {
+          "minmax": [
+            0,
+            null
+          ],
+          "types": {
+            "Address": "MultiAddress",
+            "LookupSource": "MultiAddress"
+          }
+        }
+      ]
+    },
     "altair": {
       "types": [
         {

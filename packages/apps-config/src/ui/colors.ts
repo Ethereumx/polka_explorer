@@ -17,6 +17,7 @@ const emptyColor = '#99999';
 const chainSherpax = '#6bbee8';
 const chainAcala = '#645AFF';
 const chainAjuna = '#161212';
+const chainAzakan="#6bbee8";
 const chainAleph = '#00CCAB';
 const chainAltair = '#ffb700';
 const chainAmplitude = '#5DEFA7';
@@ -162,6 +163,8 @@ const chainCESS = '#2269a9';
 // based on node name
 // alphabetical
 const nodeAjuna = '#161212';
+const nodeAzakan = '#E56239';
+
 const nodeApron = 'linear-gradient(45deg, #0099F7 0%, #2E49EB 100%)';
 const nodeAres = '#E56239';
 const nodeAstar = '#1b6dc1d9';
@@ -257,6 +260,7 @@ export const chainColors: Record<string, string> = Object.entries({
   'acala mandala pc1': chainRoccoMandala,
   'acala mandala pc2': chainRoccoMandala,
   'Ajuna Testnet': chainAjuna,
+  'Azakan Testnet': chainAzakan,
   'Aleph Zero': chainAleph,
   'Aleph Zero Testnet': chainAleph,
   Altair: chainAltair,
@@ -488,6 +492,7 @@ export const chainColors: Record<string, string> = Object.entries({
 // NOTE: This is as retrieved via the system.name RPC
 export const nodeColors = Object.entries({
   'Ajuna Node': nodeAjuna,
+  'Azakan Node': nodeAzakan,
   'Apron Node': nodeApron,
   Astar: nodeAstar,
   'Automata ContextFree Node': nodeAutomataContextFree,
