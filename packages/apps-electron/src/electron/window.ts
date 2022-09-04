@@ -22,7 +22,7 @@ export function createWindow (environment: string): Promise<unknown> {
   if (environment === 'development') {
     win.webContents.openDevTools();
 
-    return win.loadURL('http://127.0.0.1:6000/');
+    return win.loadURL('http://127.0.0.1:3200/');
   }
 
   const mainFilePath = path.resolve(__dirname, 'index.html');
